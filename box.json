@@ -1,7 +1,7 @@
 {
     "name":"Elixir APP Template",
     "version":"1.0.0",
-    "location": "https://github.com/coldbox-templates/elixir/archive/master.zip",
+    "location":"https://github.com/coldbox-templates/elixir/archive/master.zip",
     "author":"Ortus Solutions, Corp",
     "slug":"cbtemplate-elixir",
     "shortDescription":"A ColdBox application template that leverages ColdBox Elixir for assets",
